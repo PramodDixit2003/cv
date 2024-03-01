@@ -6,7 +6,7 @@ class dqueue
 	private:
 		int front=-1,rear=-1;
 		int *arr;
-		int size
+		int size;
 	public:
 		dqueue(int size)
 		{
